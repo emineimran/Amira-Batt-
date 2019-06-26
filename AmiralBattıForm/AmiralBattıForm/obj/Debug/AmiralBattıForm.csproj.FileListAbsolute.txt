@@ -1,0 +1,49 @@
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.Form1.resources
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.NasilOynanirForm.resources
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.Properties.Resources.resources
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\bin\Debug\AmiralBattıForm.exe.config
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\bin\Debug\AmiralBattıForm.exe
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\bin\Debug\AmiralBattıForm.pdb
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.exe
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.pdb
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.YeniOyuncuForm.resources
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.Anaform.resources
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.GirisForm.resources
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.GuncelleveSilForm.resources
+C:\Users\lenovo\source\repos\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.OyunForm.resources
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\bin\Debug\AmiralBattıForm.exe.config
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\bin\Debug\AmiralBattıForm.exe
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\bin\Debug\AmiralBattıForm.pdb
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.csprojResolveAssemblyReference.cache
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.Anaform.resources
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.Form1.resources
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.GirisForm.resources
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.GuncelleveSilForm.resources
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.OyunForm.resources
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.Properties.Resources.resources
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.YeniOyuncuForm.resources
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.csproj.GenerateResource.cache
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.csproj.CoreCompileInputs.cache
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.exe
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.pdb
+E:\System  Volume Information\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.Skorlar.resources
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\bin\Debug\AmiralBattıForm.exe.config
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\bin\Debug\AmiralBattıForm.exe
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\bin\Debug\AmiralBattıForm.pdb
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.Anaform.resources
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.Form1.resources
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.GirisForm.resources
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.GuncelleveSilForm.resources
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.Properties.Resources.resources
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.Skorlar.resources
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.YeniOyuncuForm.resources
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.exe
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.pdb
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.HakkımızdaForm.resources
+C:\Users\lenovo\Desktop\AmiralBattıForm-20190614T142101Z-001\AmiralBattıForm\AmiralBattıForm\obj\Debug\AmiralBattıForm.gameoverPB.resources
